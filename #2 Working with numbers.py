@@ -1,5 +1,5 @@
 #Video assistido: https://www.youtube.com/watch?v=rfscVS0vtbw&t=2298s
-#"Working with strings"
+#"Working with numbers"
 
 print((2 * (1 + 4) / 2) - 1)
 #Operações matematicas classicas
