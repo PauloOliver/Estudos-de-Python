@@ -1,5 +1,5 @@
 #Video assistido: https://www.youtube.com/watch?v=rfscVS0vtbw&t=2298s
-#"While Loop"
+#"Building a Guessing Game"
 
 #Minha versão
 key_word = "them"
