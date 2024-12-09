@@ -27,11 +27,11 @@ print(len(phrase))
 
 print(phrase[0])
 #Imprime o charctere na posição definida (nesse caso 0)
-#Lembrando que o primeiro charactere é a posição 0
+#Lembrando que o primeiro caractere é a posição 0
 
 print(phrase.index("T"))
 #Ele procura a primeira posição onde
-#aparece os characteres informados
+#aparece os caracteres informados
 #e retorna essa posição
 
 print(phrase.index("Them"))
