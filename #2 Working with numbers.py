@@ -17,8 +17,8 @@ print(str(num) + "é o melhor número de todos")
 #tipo numero com tipo string no print
 
 num = -13
-#Algumas funções
 
+#Algumas funções
 print(abs(num))
 #te dá o valor absoluto
 
